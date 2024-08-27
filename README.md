@@ -9,6 +9,7 @@ First, run the db server in db folder:
 It runs at:
 
 REST API: http://localhost:8090/api/
+
 └─ Admin UI: http://localhost:8090/\_/
 
 then run development server:
