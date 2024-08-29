@@ -19,7 +19,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         <TopBar />
-        <div className="p-0 md:p-4">{children}</div>
+        <div className="h-full">{children}</div>
       </body>
     </html>
   );
